@@ -31,12 +31,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -82,6 +83,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -90,6 +92,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -98,6 +101,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -197,6 +201,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -205,6 +210,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -250,6 +256,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -258,6 +265,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -266,6 +274,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -274,6 +283,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -380,6 +390,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -388,6 +399,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -407,7 +419,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-0"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -984,12 +996,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1035,6 +1048,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1043,6 +1057,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1051,6 +1066,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1150,6 +1166,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1158,6 +1175,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1203,6 +1221,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1211,6 +1230,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1219,6 +1239,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1227,6 +1248,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1333,6 +1355,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1341,6 +1364,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-4"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1360,7 +1384,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-4"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -1766,7 +1790,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -2212,12 +2236,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2263,6 +2288,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2271,6 +2297,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2279,6 +2306,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2378,6 +2406,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2386,6 +2415,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2431,6 +2461,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2439,6 +2470,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2447,6 +2479,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2455,6 +2488,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2561,6 +2595,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2569,6 +2604,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-6"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2588,7 +2624,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-6"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -2994,7 +3030,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -3422,7 +3458,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -3501,12 +3538,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3552,6 +3590,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3560,6 +3599,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3568,6 +3608,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3667,6 +3708,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3675,6 +3717,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3720,6 +3763,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3728,6 +3772,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3736,6 +3781,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3744,6 +3790,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3850,6 +3897,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3858,6 +3906,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-26"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3877,7 +3926,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-26"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -4283,7 +4332,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -4711,7 +4760,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -4790,12 +4840,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4841,6 +4892,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4849,6 +4901,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4857,6 +4910,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4956,6 +5010,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4964,6 +5019,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5009,6 +5065,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5017,6 +5074,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5025,6 +5083,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5033,6 +5092,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5139,6 +5199,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5147,6 +5208,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-28"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5166,7 +5228,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-28"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -5572,7 +5634,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -6001,7 +6063,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -6130,7 +6193,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -6212,11 +6278,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
@@ -6325,12 +6410,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6376,6 +6462,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6384,6 +6471,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6392,6 +6480,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6491,6 +6580,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6499,6 +6589,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6544,6 +6635,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6552,6 +6644,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6560,6 +6653,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6568,6 +6662,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6674,6 +6769,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6682,6 +6778,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-33"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6701,7 +6798,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-33"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -7107,7 +7204,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -7536,7 +7633,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -7665,7 +7763,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -7747,11 +7848,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-new-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-new-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
@@ -7860,12 +7980,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7911,6 +8032,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7919,6 +8041,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7927,6 +8050,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8026,6 +8150,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8034,6 +8159,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8079,6 +8205,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8087,6 +8214,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8095,6 +8223,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8103,6 +8232,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8209,6 +8339,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8217,6 +8348,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8236,7 +8368,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-40"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -8642,7 +8774,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -9071,7 +9203,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -9200,7 +9333,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -9282,11 +9418,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-new-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-new-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button waiting primary"
                 data-testid="helm-release-configuration-save-button"
@@ -9395,12 +9550,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9446,6 +9602,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9454,6 +9611,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9462,6 +9620,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9561,6 +9720,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9569,6 +9729,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9614,6 +9775,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9622,6 +9784,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9630,6 +9793,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9638,6 +9802,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9744,6 +9909,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9752,6 +9918,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-48"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9771,7 +9938,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-48"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -9833,7 +10000,7 @@ exports[`showing details for helm release > given application is started > when 
                 <div
                   class="info-panel grow shrink-0 basis-0"
                 >
-                  0 items
+                  2 items
                 </div>
                 <div
                   class="NamespaceSelectFilterParent"
@@ -10172,9 +10339,284 @@ exports[`showing details for helm release > given application is started > when 
                     </div>
                   </div>
                   <div
-                    class="Spinner singleColor center"
-                    data-testid="helm-releases-spinner"
-                  />
+                    class="VirtualList HelmReleases grow shrink-0 basis-0 dark"
+                  >
+                    <div
+                      class="list"
+                      role="list"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
+                    >
+                      <div
+                        data-react-window-index="0"
+                        style="position: absolute; left: 0px; transform: translateY(0px); height: 33px; width: 100%;"
+                      >
+                        <div
+                          class="TableRow nowrap"
+                          data-testid="helm-release-row-for-some-namespace/some-name"
+                        >
+                          <div
+                            class="TableCell checkbox"
+                          >
+                            <label
+                              class="Checkbox flex items-center"
+                            >
+                              <input
+                                type="checkbox"
+                              />
+                              <i
+                                class="check-icon flex items-center"
+                              />
+                            </label>
+                          </div>
+                          <div
+                            class="TableCell name"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-name
+                            </div>
+                            <div>
+                              some-name
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell namespace"
+                          >
+                            <div
+                              class="badge NamespaceSelectBadge flat clickable"
+                            >
+                              some-namespace
+                            </div>
+                            <div>
+                              Set global namespace filter to:
+                              <b>
+                                some-namespace
+                              </b>
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell chart"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-chart
+                            </div>
+                            <div>
+                              some-chart
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell revision"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              NaN
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              1.0.0
+                            </div>
+                            <div>
+                              1.0.0
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell app-version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-app-version
+                            </div>
+                            <div>
+                              some-app-version
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell some-status status"
+                          >
+                            Some-status
+                          </div>
+                          <div
+                            class="TableCell updated"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              0s
+                            </div>
+                            <div>
+                              2025-01-01T00:00:00Z
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell menu"
+                          >
+                            <div>
+                              <i
+                                class="Icon material interactive focusable"
+                                data-testid="menu-actions-icon-for-release-menu-for-some-namespace/some-name"
+                                id="menu-actions-for-release-menu-for-some-namespace/some-name"
+                                tabindex="0"
+                              >
+                                <span
+                                  class="icon"
+                                  data-icon-name="more_vert"
+                                >
+                                  more_vert
+                                </span>
+                              </i>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        data-react-window-index="1"
+                        style="position: absolute; left: 0px; transform: translateY(33px); height: 33px; width: 100%;"
+                      >
+                        <div
+                          class="TableRow nowrap"
+                          data-testid="helm-release-row-for-some-other-namespace/some-other-name"
+                        >
+                          <div
+                            class="TableCell checkbox"
+                          >
+                            <label
+                              class="Checkbox flex items-center"
+                            >
+                              <input
+                                type="checkbox"
+                              />
+                              <i
+                                class="check-icon flex items-center"
+                              />
+                            </label>
+                          </div>
+                          <div
+                            class="TableCell name"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-other-name
+                            </div>
+                            <div>
+                              some-other-name
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell namespace"
+                          >
+                            <div
+                              class="badge NamespaceSelectBadge flat clickable"
+                            >
+                              some-other-namespace
+                            </div>
+                            <div>
+                              Set global namespace filter to:
+                              <b>
+                                some-other-namespace
+                              </b>
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell chart"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-other-chart
+                            </div>
+                            <div>
+                              some-other-chart
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell revision"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              NaN
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              2.0.0
+                            </div>
+                            <div>
+                              2.0.0
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell app-version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-other-app-version
+                            </div>
+                            <div>
+                              some-other-app-version
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell some-other-status status"
+                          >
+                            Some-other-status
+                          </div>
+                          <div
+                            class="TableCell updated"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              0s
+                            </div>
+                            <div>
+                              2025-01-01T00:00:00Z
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell menu"
+                          >
+                            <div>
+                              <i
+                                class="Icon material interactive focusable"
+                                data-testid="menu-actions-icon-for-release-menu-for-some-other-namespace/some-other-name"
+                                id="menu-actions-for-release-menu-for-some-other-namespace/some-other-name"
+                                tabindex="0"
+                              >
+                                <span
+                                  class="icon"
+                                  data-icon-name="more_vert"
+                                >
+                                  more_vert
+                                </span>
+                              </i>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        data-react-window-sizer=""
+                        style="height: 66px; width: 100%; z-index: -1;"
+                      />
+                    </div>
+                  </div>
                 </div>
                 <div
                   class="AddRemoveButtons flex gap-2"
@@ -10331,7 +10773,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -10460,7 +10903,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -10542,11 +10988,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-new-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-new-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
@@ -10655,12 +11120,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10706,6 +11172,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10714,6 +11181,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10722,6 +11190,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10821,6 +11290,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10829,6 +11299,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10874,6 +11345,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10882,6 +11354,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10890,6 +11363,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10898,6 +11372,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11004,6 +11479,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11012,6 +11488,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-43"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11031,7 +11508,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-43"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -11093,7 +11570,7 @@ exports[`showing details for helm release > given application is started > when 
                 <div
                   class="info-panel grow shrink-0 basis-0"
                 >
-                  0 items
+                  2 items
                 </div>
                 <div
                   class="NamespaceSelectFilterParent"
@@ -11432,9 +11909,284 @@ exports[`showing details for helm release > given application is started > when 
                     </div>
                   </div>
                   <div
-                    class="Spinner singleColor center"
-                    data-testid="helm-releases-spinner"
-                  />
+                    class="VirtualList HelmReleases grow shrink-0 basis-0 dark"
+                  >
+                    <div
+                      class="list"
+                      role="list"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
+                    >
+                      <div
+                        data-react-window-index="0"
+                        style="position: absolute; left: 0px; transform: translateY(0px); height: 33px; width: 100%;"
+                      >
+                        <div
+                          class="TableRow nowrap"
+                          data-testid="helm-release-row-for-some-namespace/some-name"
+                        >
+                          <div
+                            class="TableCell checkbox"
+                          >
+                            <label
+                              class="Checkbox flex items-center"
+                            >
+                              <input
+                                type="checkbox"
+                              />
+                              <i
+                                class="check-icon flex items-center"
+                              />
+                            </label>
+                          </div>
+                          <div
+                            class="TableCell name"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-name
+                            </div>
+                            <div>
+                              some-name
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell namespace"
+                          >
+                            <div
+                              class="badge NamespaceSelectBadge flat clickable"
+                            >
+                              some-namespace
+                            </div>
+                            <div>
+                              Set global namespace filter to:
+                              <b>
+                                some-namespace
+                              </b>
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell chart"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-chart
+                            </div>
+                            <div>
+                              some-chart
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell revision"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              NaN
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              1.0.0
+                            </div>
+                            <div>
+                              1.0.0
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell app-version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-app-version
+                            </div>
+                            <div>
+                              some-app-version
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell some-status status"
+                          >
+                            Some-status
+                          </div>
+                          <div
+                            class="TableCell updated"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              0s
+                            </div>
+                            <div>
+                              2025-01-01T00:00:00Z
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell menu"
+                          >
+                            <div>
+                              <i
+                                class="Icon material interactive focusable"
+                                data-testid="menu-actions-icon-for-release-menu-for-some-namespace/some-name"
+                                id="menu-actions-for-release-menu-for-some-namespace/some-name"
+                                tabindex="0"
+                              >
+                                <span
+                                  class="icon"
+                                  data-icon-name="more_vert"
+                                >
+                                  more_vert
+                                </span>
+                              </i>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        data-react-window-index="1"
+                        style="position: absolute; left: 0px; transform: translateY(33px); height: 33px; width: 100%;"
+                      >
+                        <div
+                          class="TableRow nowrap"
+                          data-testid="helm-release-row-for-some-other-namespace/some-other-name"
+                        >
+                          <div
+                            class="TableCell checkbox"
+                          >
+                            <label
+                              class="Checkbox flex items-center"
+                            >
+                              <input
+                                type="checkbox"
+                              />
+                              <i
+                                class="check-icon flex items-center"
+                              />
+                            </label>
+                          </div>
+                          <div
+                            class="TableCell name"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-other-name
+                            </div>
+                            <div>
+                              some-other-name
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell namespace"
+                          >
+                            <div
+                              class="badge NamespaceSelectBadge flat clickable"
+                            >
+                              some-other-namespace
+                            </div>
+                            <div>
+                              Set global namespace filter to:
+                              <b>
+                                some-other-namespace
+                              </b>
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell chart"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-other-chart
+                            </div>
+                            <div>
+                              some-other-chart
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell revision"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              NaN
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              2.0.0
+                            </div>
+                            <div>
+                              2.0.0
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell app-version"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              some-other-app-version
+                            </div>
+                            <div>
+                              some-other-app-version
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell some-other-status status"
+                          >
+                            Some-other-status
+                          </div>
+                          <div
+                            class="TableCell updated"
+                          >
+                            <div
+                              class="badge flat"
+                            >
+                              0s
+                            </div>
+                            <div>
+                              2025-01-01T00:00:00Z
+                            </div>
+                          </div>
+                          <div
+                            class="TableCell menu"
+                          >
+                            <div>
+                              <i
+                                class="Icon material interactive focusable"
+                                data-testid="menu-actions-icon-for-release-menu-for-some-other-namespace/some-other-name"
+                                id="menu-actions-for-release-menu-for-some-other-namespace/some-other-name"
+                                tabindex="0"
+                              >
+                                <span
+                                  class="icon"
+                                  data-icon-name="more_vert"
+                                >
+                                  more_vert
+                                </span>
+                              </i>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        aria-hidden="true"
+                        data-react-window-sizer=""
+                        style="height: 66px; width: 100%; z-index: -1;"
+                      />
+                    </div>
+                  </div>
                 </div>
                 <div
                   class="AddRemoveButtons flex gap-2"
@@ -11591,7 +12343,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -11720,7 +12473,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -11803,11 +12559,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-new-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-new-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
@@ -11917,12 +12692,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11968,6 +12744,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11976,6 +12753,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11984,6 +12762,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12083,6 +12862,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12091,6 +12871,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12136,6 +12917,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12144,6 +12926,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12152,6 +12935,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12160,6 +12944,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12266,6 +13051,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12274,6 +13060,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-37"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12293,7 +13080,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-37"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -12699,7 +13486,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -13128,7 +13915,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -13257,7 +14045,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -13339,11 +14130,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-other-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-other-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
@@ -13452,12 +14262,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13503,6 +14314,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13511,6 +14323,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13519,6 +14332,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13618,6 +14432,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13626,6 +14441,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13671,6 +14487,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13679,6 +14496,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13687,6 +14505,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13695,6 +14514,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13801,6 +14621,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13809,6 +14630,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-30"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13828,7 +14650,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-30"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -14234,7 +15056,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -14741,12 +15563,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14792,6 +15615,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14800,6 +15624,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14808,6 +15633,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14907,6 +15733,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14915,6 +15742,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14960,6 +15788,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14968,6 +15797,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14976,6 +15806,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14984,6 +15815,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15090,6 +15922,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15098,6 +15931,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-22"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15117,7 +15951,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-22"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -15523,7 +16357,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -15951,7 +16785,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -16032,12 +16867,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16083,6 +16919,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16091,6 +16928,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16099,6 +16937,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16198,6 +17037,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16206,6 +17046,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16251,6 +17092,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16259,6 +17101,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16267,6 +17110,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16275,6 +17119,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16381,6 +17226,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16389,6 +17235,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16408,7 +17255,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-18"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -16814,7 +17661,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -17260,12 +18107,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17311,6 +18159,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17319,6 +18168,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17327,6 +18177,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17426,6 +18277,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17434,6 +18286,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17479,6 +18332,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17487,6 +18341,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17495,6 +18350,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17503,6 +18359,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17609,6 +18466,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17617,6 +18475,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-20"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17636,7 +18495,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-20"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -18042,7 +18901,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -18470,7 +19329,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -18549,12 +19409,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18600,6 +19461,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18608,6 +19470,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18616,6 +19479,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18715,6 +19579,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18723,6 +19588,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18768,6 +19634,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18776,6 +19643,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18784,6 +19652,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18792,6 +19661,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18898,6 +19768,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18906,6 +19777,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18925,7 +19797,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-10"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -19331,7 +20203,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -19759,7 +20631,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-other-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -19838,12 +20711,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19889,6 +20763,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19897,6 +20772,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19905,6 +20781,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20004,6 +20881,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20012,6 +20890,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20057,6 +20936,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20065,6 +20945,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20073,6 +20954,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20081,6 +20963,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20187,6 +21070,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20195,6 +21079,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-15"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20214,7 +21099,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-15"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -20620,7 +21505,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -21048,7 +21933,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-other-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -21127,12 +22013,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21178,6 +22065,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21186,6 +22074,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21194,6 +22083,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21293,6 +22183,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21301,6 +22192,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21346,6 +22238,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21354,6 +22247,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21362,6 +22256,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21370,6 +22265,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21476,6 +22372,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21484,6 +22381,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-17"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21503,7 +22401,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-17"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -21909,7 +22807,7 @@ exports[`showing details for helm release > given application is started > when 
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -22338,7 +23236,8 @@ exports[`showing details for helm release > given application is started > when 
         >
           some-other-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -22467,7 +23366,10 @@ exports[`showing details for helm release > given application is started > when 
             <span
               class="value"
             >
-              0s ago (2025-01-01T00:00:00+0000)
+              0s
+               ago (
+              2025-01-01T00:00:00Z
+              )
             </span>
           </div>
           <div
@@ -22549,11 +23451,30 @@ exports[`showing details for helm release > given application is started > when 
                   User-supplied values only
                 </span>
               </label>
-              <textarea
-                data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+              <div
+                class="CopyableMonacoEditor"
               >
-                some-other-configuration
-              </textarea>
+                <textarea
+                  data-testid="monaco-editor-for-helm-release-configuration-some-namespace/some-name"
+                >
+                  some-other-configuration
+                </textarea>
+                <i
+                  aria-label="Copy"
+                  class="Icon CopyToClipboardIcon material interactive focusable"
+                  tabindex="0"
+                >
+                  <span
+                    class="icon"
+                    data-icon-name="content_copy"
+                  >
+                    content_copy
+                  </span>
+                </i>
+                <div>
+                  Copy
+                </div>
+              </div>
               <button
                 class="Button primary"
                 data-testid="helm-release-configuration-save-button"
@@ -22662,12 +23583,13 @@ exports[`showing details for helm release > given application is started > when 
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22713,6 +23635,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22721,6 +23644,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22729,6 +23653,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22828,6 +23753,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22836,6 +23762,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22881,6 +23808,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22889,6 +23817,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22897,6 +23826,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22905,6 +23835,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -23011,6 +23942,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -23019,6 +23951,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-describedby="DndDescribedBy-3"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -23038,7 +23971,7 @@ exports[`showing details for helm release > given application is started > when 
               aria-live="assertive"
               id="DndLiveRegion-3"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>

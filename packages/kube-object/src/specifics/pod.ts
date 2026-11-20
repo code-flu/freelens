@@ -7,7 +7,7 @@
 import { isDefined } from "@freelensapp/utilities";
 import { KubeObject } from "../kube-object";
 
-import type { RequireExactlyOne } from "type-fest";
+import type { RequireExactlyOne } from "@freelensapp/type-fest";
 
 import type {
   Affinity,
@@ -38,6 +38,7 @@ export interface PodLogsQuery {
   sinceTime?: string; // Date.toISOString()-format
   follow?: boolean;
   previous?: boolean;
+  limitBytes?: number;
 }
 
 /**
@@ -559,6 +560,12 @@ export interface Sysctl {
 
 export interface TopologySpreadConstraint {}
 
+export type OSName = "linux" | "windows";
+
+export interface PodOS {
+  name: OSName;
+}
+
 export interface PodSpec {
   activeDeadlineSeconds?: number;
   affinity?: Affinity;
@@ -575,6 +582,7 @@ export interface PodSpec {
   imagePullSecrets?: LocalObjectReference[];
   initContainers?: Container[];
   nodeName?: string;
+  os?: PodOS;
   nodeSelector?: Partial<Record<string, string>>;
   overhead?: Partial<Record<string, string>>;
   preemptionPolicy?: string;

@@ -31,12 +31,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -82,6 +83,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -90,6 +92,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -98,6 +101,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -198,6 +202,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -206,6 +211,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -251,6 +257,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -259,6 +266,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -267,6 +275,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -275,6 +284,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -380,6 +390,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -388,6 +399,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-0"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -407,7 +419,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-0"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -630,12 +642,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -681,6 +694,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -689,6 +703,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -697,6 +712,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -796,6 +812,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -804,6 +821,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -849,6 +867,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -857,6 +876,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -865,6 +885,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -873,6 +894,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -979,6 +1001,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -987,6 +1010,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-1"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1006,7 +1030,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-1"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -1239,7 +1263,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -1477,7 +1501,8 @@ exports[`installing helm chart from new tab > given tab for installing chart was
         >
           Chart: some-repository/some-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -1708,12 +1733,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1759,6 +1785,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1767,6 +1794,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1775,6 +1803,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1874,6 +1903,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1882,6 +1912,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1927,6 +1958,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1935,6 +1967,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1943,6 +1976,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -1951,6 +1985,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2057,6 +2092,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2065,6 +2101,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-2"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2084,7 +2121,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-2"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -2317,7 +2354,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -2665,12 +2702,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2716,6 +2754,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2724,6 +2763,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2732,6 +2772,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2831,6 +2872,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2839,6 +2881,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2884,6 +2927,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2892,6 +2936,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2900,6 +2945,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -2908,6 +2954,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3014,6 +3061,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3022,6 +3070,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-39"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3041,7 +3090,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-39"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -3274,7 +3323,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -3881,12 +3930,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3932,6 +3982,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3940,6 +3991,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -3948,6 +4000,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4047,6 +4100,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4055,6 +4109,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4100,6 +4155,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4108,6 +4164,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4116,6 +4173,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4124,6 +4182,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4230,6 +4289,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4238,6 +4298,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-40"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -4257,7 +4318,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-40"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -4490,7 +4551,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -5066,12 +5127,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5117,6 +5179,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5125,6 +5188,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5133,6 +5197,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5232,6 +5297,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5240,6 +5306,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5285,6 +5352,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5293,6 +5361,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5301,6 +5370,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5309,6 +5379,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5415,6 +5486,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5423,6 +5495,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-46"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -5442,7 +5515,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-46"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -5675,7 +5748,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -6246,12 +6319,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6297,6 +6371,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6305,6 +6380,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6313,6 +6389,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6412,6 +6489,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6420,6 +6498,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6465,6 +6544,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6473,6 +6553,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6481,6 +6562,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6489,6 +6571,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6595,6 +6678,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6603,6 +6687,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-66"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -6622,7 +6707,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-66"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -6855,7 +6940,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -7426,12 +7511,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7477,6 +7563,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7485,6 +7572,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7493,6 +7581,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7592,6 +7681,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7600,6 +7690,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7645,6 +7736,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7653,6 +7745,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7661,6 +7754,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7669,6 +7763,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7775,6 +7870,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7783,6 +7879,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-54"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -7802,7 +7899,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-54"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -8035,7 +8132,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -8628,12 +8725,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8679,6 +8777,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8687,6 +8786,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8695,6 +8795,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8794,6 +8895,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8802,6 +8904,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8847,6 +8950,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8855,6 +8959,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8863,6 +8968,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8871,6 +8977,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8977,6 +9084,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -8985,6 +9093,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-50"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9004,7 +9113,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-50"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -9237,7 +9346,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -9844,12 +9953,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9895,6 +10005,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9903,6 +10014,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -9911,6 +10023,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10010,6 +10123,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10018,6 +10132,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10063,6 +10178,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10071,6 +10187,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10079,6 +10196,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10087,6 +10205,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10193,6 +10312,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10201,6 +10321,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-51"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -10220,7 +10341,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-51"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -10453,7 +10574,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -11024,12 +11145,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11075,6 +11197,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11083,6 +11206,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11091,6 +11215,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11190,6 +11315,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11198,6 +11324,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11243,6 +11370,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11251,6 +11379,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11259,6 +11388,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11267,6 +11397,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11373,6 +11504,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11381,6 +11513,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-12"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -11400,7 +11533,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-12"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -11633,7 +11766,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -12259,12 +12392,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12310,6 +12444,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12318,6 +12453,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12326,6 +12462,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12425,6 +12562,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12433,6 +12571,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12478,6 +12617,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12486,6 +12626,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12494,6 +12635,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12502,6 +12644,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12608,6 +12751,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12616,6 +12760,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-16"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -12635,7 +12780,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-16"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -12868,7 +13013,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -13296,12 +13441,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13347,6 +13493,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13355,6 +13502,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13363,6 +13511,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13462,6 +13611,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13470,6 +13620,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13515,6 +13666,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13523,6 +13675,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13531,6 +13684,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13539,6 +13693,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13645,6 +13800,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13653,6 +13809,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-18"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -13672,7 +13829,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-18"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -14155,7 +14312,8 @@ exports[`installing helm chart from new tab > given tab for installing chart was
         >
           some-release
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -14281,12 +14439,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14332,6 +14491,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14340,6 +14500,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14348,6 +14509,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14447,6 +14609,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14455,6 +14618,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14500,6 +14664,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14508,6 +14673,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14516,6 +14682,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14524,6 +14691,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14630,6 +14798,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14638,6 +14807,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-21"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -14657,7 +14827,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-21"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -14890,7 +15060,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -15331,12 +15501,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15382,6 +15553,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15390,6 +15562,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15398,6 +15571,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15497,6 +15671,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15505,6 +15680,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15550,6 +15726,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15558,6 +15735,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15566,6 +15744,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15574,6 +15753,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15680,6 +15860,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15688,6 +15869,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-24"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -15707,7 +15889,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-24"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -15940,7 +16122,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -16492,7 +16674,8 @@ exports[`installing helm chart from new tab > given tab for installing chart was
         >
           Chart: some-repository/some-other-name
           <i
-            class="Icon material interactive focusable"
+            aria-label="Copy"
+            class="Icon CopyToClipboardIcon material interactive focusable"
             tabindex="0"
           >
             <span
@@ -16723,12 +16906,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16774,6 +16958,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16782,6 +16967,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16790,6 +16976,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16889,6 +17076,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16897,6 +17085,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16942,6 +17131,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16950,6 +17140,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16958,6 +17149,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -16966,6 +17158,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17072,6 +17265,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17080,6 +17274,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-25"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17099,7 +17294,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-25"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -17332,7 +17527,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -17732,12 +17927,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17783,6 +17979,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17791,6 +17988,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17799,6 +17997,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17898,6 +18097,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17906,6 +18106,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17951,6 +18152,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17959,6 +18161,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17967,6 +18170,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -17975,6 +18179,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18081,6 +18286,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18089,6 +18295,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-31"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -18108,7 +18315,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-31"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -18341,7 +18548,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -18966,12 +19173,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19017,6 +19225,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19025,6 +19234,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19033,6 +19243,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19132,6 +19343,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19140,6 +19352,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19185,6 +19398,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19193,6 +19407,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19201,6 +19416,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19209,6 +19425,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19315,6 +19532,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19323,6 +19541,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-34"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -19342,7 +19561,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-34"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -19575,7 +19794,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -20198,12 +20417,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20249,6 +20469,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20257,6 +20478,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20265,6 +20487,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20364,6 +20587,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20372,6 +20596,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20417,6 +20642,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20425,6 +20651,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20433,6 +20660,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20441,6 +20669,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20547,6 +20776,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20555,6 +20785,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-60"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -20574,7 +20805,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-60"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -20807,7 +21038,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -21378,12 +21609,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21429,6 +21661,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21437,6 +21670,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21445,6 +21679,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21544,6 +21779,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21552,6 +21788,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21597,6 +21834,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21605,6 +21843,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21613,6 +21852,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21621,6 +21861,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21727,6 +21968,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21735,6 +21977,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-8"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -21754,7 +21997,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-8"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -21987,7 +22230,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
@@ -22558,12 +22801,13 @@ exports[`installing helm chart from new tab > given tab for installing chart was
             />
           </div>
           <div
-            class="container sidebarNav sidebar-active-status"
+            class="OrderableList sidebarNav sidebar-active-status"
           >
             <div
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22609,6 +22853,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22617,6 +22862,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22625,6 +22871,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22724,6 +22971,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22732,6 +22980,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22777,6 +23026,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22785,6 +23035,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22793,6 +23044,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22801,6 +23053,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22907,6 +23160,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22915,6 +23169,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-describedby="DndDescribedBy-10"
               aria-disabled="false"
               aria-roledescription="sortable"
+              class="OrderableItem"
               role="button"
               style="pointer-events: auto; opacity: 1; transition: transform 0ms linear;"
               tabindex="0"
@@ -22934,7 +23189,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
               aria-live="assertive"
               id="DndLiveRegion-10"
               role="status"
-              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px); clip-path: inset(100%); white-space: nowrap;"
+              style="position: fixed; top: 0px; left: 0px; width: 1px; height: 1px; margin: -1px; border: 0px; padding: 0px; overflow: hidden; clip: rect(0px 0px 0px 0px); clip-path: inset(100%); white-space: nowrap;"
             />
           </div>
         </div>
@@ -23167,7 +23422,7 @@ exports[`installing helm chart from new tab > given tab for installing chart was
                     <div
                       class="list"
                       role="list"
-                      style="position: relative; max-height: 100%; flex-grow: 1; overflow-y: auto; width: 100%; height: 100%;"
+                      style="position: relative; flex-grow: 1; max-height: 100%; overflow-y: auto; width: 100%; height: 100%;"
                     >
                       <div
                         data-react-window-index="0"
